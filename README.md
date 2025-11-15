@@ -4,6 +4,8 @@
 
 A professional, creative system for visualizing the reasoning process of ReAct (Reasoning + Acting) agents powered by LangChain and Google's Gemini API. Watch AI agents think through complex queries in real-time with an interactive slideshow interface.
 
+Video link: https://drive.google.com/file/d/1AXsgS8ejC0sci058VNNgkWBDrO90qLMa/view?usp=sharing
+
 Frontend Live Link: https://react-rag-visualiser-frontend.onrender.com
 
 Backend Live Link: https://react-rag-visualiser.onrender.com
