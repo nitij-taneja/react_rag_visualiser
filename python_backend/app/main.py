@@ -44,7 +44,7 @@ app.add_middleware(
 )
 
 # Initialize RAG agent
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyAItbFA2G-_I2AKbDiYgZZ1YdfYbqXqMgU")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 rag_agent = ReactRagAgent(api_key=GEMINI_API_KEY)
 
 # In-memory storage for documents and queries
