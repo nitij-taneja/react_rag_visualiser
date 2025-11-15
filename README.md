@@ -1,5 +1,7 @@
 # ReAct RAG Visualizer
 
+![Demo](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+
 A professional, creative system for visualizing the reasoning process of ReAct (Reasoning + Acting) agents powered by LangChain and Google's Gemini API. Watch AI agents think through complex queries in real-time with an interactive slideshow interface.
 
 Frontend Live Link: https://react-rag-visualiser-frontend.onrender.com
